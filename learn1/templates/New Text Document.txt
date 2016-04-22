@@ -1,0 +1,3 @@
+Move js to static/ after done here cause it doesn't belong 
+here also make sure that you change the script location in
+side the file.
